@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kwan-hee/React_EvenPractice.git/static/css/main.073c9b0a.css",
+    "main.js": "/kwan-hee/React_EvenPractice.git/static/js/main.ba7a5821.js",
+    "static/js/787.2366df49.chunk.js": "/kwan-hee/React_EvenPractice.git/static/js/787.2366df49.chunk.js",
+    "static/media/logo.svg": "/kwan-hee/React_EvenPractice.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kwan-hee/React_EvenPractice.git/index.html",
+    "main.073c9b0a.css.map": "/kwan-hee/React_EvenPractice.git/static/css/main.073c9b0a.css.map",
+    "main.ba7a5821.js.map": "/kwan-hee/React_EvenPractice.git/static/js/main.ba7a5821.js.map",
+    "787.2366df49.chunk.js.map": "/kwan-hee/React_EvenPractice.git/static/js/787.2366df49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba7a5821.js"
+  ]
+}
